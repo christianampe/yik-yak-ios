@@ -1,5 +1,5 @@
 # YikYak-Clone
-Anonymous message board app.  Reminiscent of YikYak in its early stages.
+Anonymous message board app written in Swift 3.  Reminiscent of YikYak in its early stages.
 
 #### To Run
 open directory in terminal and run:
@@ -7,6 +7,7 @@ open directory in terminal and run:
 $ pod install
 ```
 
+This will create a Xcode workspace.  Build and run.
 
 
 ![Demo](https://s24.postimg.org/x0jtufh9x/image.gif)
